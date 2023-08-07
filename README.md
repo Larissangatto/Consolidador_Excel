@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 📂projeto01_EXCEL
 
 - O código  lê vários arquivos Excel contidos em uma pasta e  consolida todos em um arquivo Excel final sem perder informações.
